@@ -7,7 +7,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.List;
 
 public class ProcessCatsList {
-  Cat cat = new Cat();
 
   public ProcessCatsList() {}
 
